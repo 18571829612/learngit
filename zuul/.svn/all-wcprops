@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/aisino-erp/!svn/ver/700/trunk/aisino-erp-1.0.0/zuul
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/aisino-erp/!svn/ver/126/trunk/aisino-erp-1.0.0/zuul/pom.xml
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/aisino-erp/!svn/ver/80/trunk/aisino-erp-1.0.0/zuul/.project
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/aisino-erp/!svn/ver/295/trunk/aisino-erp-1.0.0/zuul/.classpath
+END
